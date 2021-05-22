@@ -1,0 +1,22 @@
+echo off
+md 
+cd Chuprikov
+md Chuprikov
+md Sergey
+md Sergeevich
+pause
+cd Chuprikov
+echo > 02112000.txt
+cd C:\Users\slon4\Desktop\Станкин 2021 (сем.6)\Основы системного ПО\Лаб №2\LAB_2\script\Chuprikov\Sergeevich
+echo > 1.txt
+pause
+cd C:\Users\slon4\Desktop\Станкин 2021 (сем.6)\Основы системного ПО\Лаб №2\LAB_2\script
+del Chuprikov /S /Q /F
+pause
+cd C:\Users\slon4\Desktop\Станкин 2021 (сем.6)\Основы системного ПО\Лаб №2\LAB_2\script\Chuprikov
+rd Chuprikov
+rd Sergey
+rd Sergeevich
+cd C:\Users\slon4\Desktop\Станкин 2021 (сем.6)\Основы системного ПО\Лаб №2\LAB_2\script
+rd Chuprikov
+pause

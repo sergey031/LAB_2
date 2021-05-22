@@ -1,0 +1,8 @@
+echo off
+cd C:\Users\slon4\Desktop\Станкин 2021 (сем.6)\Основы системного ПО\Лаб №2\LAB_2\script\firstcat\secondcat
+rd thirdcat
+cd C:\Users\slon4\Desktop\Станкин 2021 (сем.6)\Основы системного ПО\Лаб №2\LAB_2\script\firstcat
+rd secondcat
+cd C:\Users\slon4\Desktop\Станкин 2021 (сем.6)\Основы системного ПО\Лаб №2\LAB_2\script
+rd firstcat
+pause
